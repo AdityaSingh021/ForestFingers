@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ForestFingers/static/css/main.fbb91458.css",
+    "main.js": "/ForestFingers/static/js/main.f2d04f71.js",
+    "static/js/787.d8c82ac4.chunk.js": "/ForestFingers/static/js/787.d8c82ac4.chunk.js",
+    "static/media/bg.jpg": "/ForestFingers/static/media/bg.c1f2e3bb7cd943e6e4e0.jpg",
+    "static/media/trees_4.svg": "/ForestFingers/static/media/trees_4.592ecf868004f2e588a2e4428ae1d4f6.svg",
+    "static/media/trees_5.svg": "/ForestFingers/static/media/trees_5.2e703a684717182cfc608cffe1546368.svg",
+    "static/media/code.png": "/ForestFingers/static/media/code.91218bdbf02a5c750f34.png",
+    "static/media/logo.svg": "/ForestFingers/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/birds_1.svg": "/ForestFingers/static/media/birds_1.4b403e0901f05c33decc942bd7872637.svg",
+    "index.html": "/ForestFingers/index.html",
+    "main.fbb91458.css.map": "/ForestFingers/static/css/main.fbb91458.css.map",
+    "main.f2d04f71.js.map": "/ForestFingers/static/js/main.f2d04f71.js.map",
+    "787.d8c82ac4.chunk.js.map": "/ForestFingers/static/js/787.d8c82ac4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb91458.css",
+    "static/js/main.f2d04f71.js"
+  ]
+}

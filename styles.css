@@ -1,0 +1,20 @@
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 8px; /* Set the width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: grey; /* Change the thumb (scrolling handle) color */
+    border-radius: 20px; /* Add rounded corners to the thumb */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #181D25; /* Change the track (background) color */
+  }
+  
+  /* For Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: grey #181D25;
+  }
+  
