@@ -1,0 +1,38 @@
+.nav-main{
+    background-color: #181D25;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-items{
+    margin-top: 20px;
+    display: flex;
+    cursor: pointer;
+}
+.logo{
+    padding-right: 10px;
+}
+.name{
+    text-decoration: none;
+    color: grey;
+    margin-top: 20px;
+    display: flex;
+    cursor: pointer;
+}
+.navi{
+    z-index: 3;
+    cursor: pointer;
+    display: flex;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #737373;
+    font-size: 1rem;
+}
+.info{
+    cursor: pointer;
+    margin-left: 10px;
+}
+.contri{
+    cursor: pointer;
+    margin-left: 10px;
+}
