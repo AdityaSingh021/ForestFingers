@@ -23,6 +23,7 @@ function App() {
       <img className="birds" src={birds} alt="" />
       <Router>
         <Routes>
+        <Route component={<TypeContainer />} />
         <Route path="/" element={<TypeContainer />} />
           <Route path="/info" element={<Info/>} />
           
